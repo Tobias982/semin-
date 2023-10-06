@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.okenka{
+    margin: 16px;
+    background-color: darkred;
+    padding: 16px;
+    border-radius: 16px;
+    border: 3px outset red;
+}
+
+#text1{
+    color: white;
+    text-align: justify;
+}
+
+#text2{
+    color: cyan;
+    text-align: right;
+}
+
+#text3{
+    color: wheat;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+header{
+    background-color: azure;
+    width: 100%;
+}
+h3{
+    margin-top: 0px;
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color: darkred;
+}
+.kontakt{
+    color: white;
+    margin: 16px;
+    
+}
